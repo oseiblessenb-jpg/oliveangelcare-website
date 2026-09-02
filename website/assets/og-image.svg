@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#FBF6EF"/>
+  <rect x="0" y="0" width="1200" height="12" fill="#56654A"/>
+  <g transform="translate(600,212) scale(2.5)">
+    <path d="M-30,34 L-30,-4 Q-30,-10 -25,-14 L-4,-32 Q0,-35 4,-32 L25,-14 Q30,-10 30,-4 L30,34 Z" fill="none" stroke="#56654A" stroke-width="2.8" stroke-linejoin="round"/>
+    <g transform="translate(0,7) scale(0.6)">
+      <path d="M0,40 C-2,16 -2,-8 0,-30" fill="none" stroke="#56654A" stroke-width="4.6" stroke-linecap="round"/>
+      <ellipse cx="0" cy="-28" rx="5" ry="12" fill="#56654A"/>
+      <ellipse cx="-12" cy="-10" rx="6" ry="13" fill="#6E7F5B" transform="rotate(-48 -12 -10)"/>
+      <ellipse cx="12" cy="-10" rx="6" ry="13" fill="#8FA07C" transform="rotate(48 12 -10)"/>
+      <ellipse cx="-13" cy="8" rx="6" ry="13" fill="#6E7F5B" transform="rotate(-48 -13 8)"/>
+      <ellipse cx="13" cy="8" rx="6" ry="13" fill="#8FA07C" transform="rotate(48 13 8)"/>
+      <circle cx="6" cy="18" r="3.4" fill="#C0694A"/>
+      <circle cx="-6" cy="0" r="3.4" fill="#C0694A"/>
+    </g>
+  </g>
+  <text x="600" y="430" text-anchor="middle" font-family="Georgia, serif" font-size="76" font-weight="bold"><tspan fill="#3E4A35">Olive</tspan><tspan fill="#C0694A"> Angel</tspan></text>
+  <text x="600" y="470" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="22" letter-spacing="8" fill="#6B5849">CARE SERVICES</text>
+  <text x="600" y="540" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="30" fill="#4A3B32">Compassionate in-home care across greater Houston</text>
+  <text x="600" y="580" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#9A8C7D">Home Health  ·  Personal Assistance</text>
+</svg>
